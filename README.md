@@ -1,4 +1,4 @@
-# 💫 HI, I'm Vignesh
+# 📡 Hi, I'm Vignesh
   I am a Computer Science Engineering student specializing in AI & Data Science at Parul University. I am passionate about Python full-stack development, AI applications, and web technologies. I have worked on projects such as an Auction System (Bid & Buy), Anime Recommendation System, Swiggy Clone Application, and a Hand Gesture Controlled Laptop System using Python and OpenCV. My technical skills include Python, HTML, CSS, JavaScript, MySQL, Django, Flask, React, Firebase, AWS, Git/GitHub, and Tableau. Along with technical expertise, I possess strong problem-solving, communication, teamwork, and adaptability skills. I have also built automation bots using Python and Telegram Bot API and actively participate in web development and UI/UX design activities.
 
 ---
